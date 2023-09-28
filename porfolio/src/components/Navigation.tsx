@@ -16,8 +16,8 @@ const Navigation = () => {
           />
         </div>
         <div className="ml-4">
-          <h1 className="text-2xl font-bold">Nombre</h1>
-          <h3 className="text-lg">Subnombre</h3>
+          <h1 className="text-2xl font-bold">Omar Nazareno Lujan</h1>
+          <h3 className="text-lg">Fullstack Developer</h3>
         </div>
       </div>
 
