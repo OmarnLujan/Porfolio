@@ -85,7 +85,7 @@ export const FormEmail = () => {
           </li>
         </ul>
         <div className="flex justify-center items-center ">
-          <button className="p-1 m-2 border bg-stone-800 border-slate-600 hover:border-slate-400 shadow-inner cursor-default rounded-md" type="submit" value="send">Send Email</button>
+          <button className="p-1 m-2 border bg-stone-800 border-slate-600 hover:border-slate-400 shadow-inner cursor-default rounded-md" type="submit" value="send">Enviar Email</button>
         </div>
       </form>
     </div>
